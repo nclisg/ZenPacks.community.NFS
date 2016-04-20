@@ -3,9 +3,9 @@
 # or saved.  Do not modify them directly here.
 # NB: PACKAGES is deprecated
 NAME = "ZenPacks.community.NFS"
-VERSION = "1.0.0dev"
-AUTHOR = "Your Name Here"
-LICENSE = ""
+VERSION = "1.0.0-beta"
+AUTHOR = "Nick Muir"
+LICENSE = "GPLv3"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.NFS']
 INSTALL_REQUIRES = []
